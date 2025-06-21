@@ -45,7 +45,7 @@ export default function Contact() {
             </span>
           </h2>
           <p className="mb-16 text-fluid-lg text-gray-600 lg:text-xl">
-            Don't let your competitors get ahead. Start your GEO journey today and secure your position 
+            Don&apos;t let your competitors get ahead. Start your GEO journey today and secure your position 
             in the AI-driven future of search.
           </p>
         </motion.div>
