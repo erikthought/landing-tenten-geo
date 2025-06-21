@@ -59,9 +59,9 @@ export default function Contact() {
           >
             <Card className="h-full">
               <CardHeader>
-                <CardTitle className="text-2xl">Let's Discuss Your GEO Strategy</CardTitle>
+                <CardTitle className="text-2xl">Let&apos;s Discuss Your GEO Strategy</CardTitle>
                 <CardDescription className="text-base">
-                  Get a free consultation and custom GEO audit report. We'll analyze your current AI search visibility and show you exactly how to improve.
+                  Get a free consultation and custom GEO audit report. We&apos;ll analyze your current AI search visibility and show you exactly how to improve.
                 </CardDescription>
               </CardHeader>
               <CardContent>
@@ -158,7 +158,7 @@ export default function Contact() {
                 <div className="flex items-start gap-3">
                   <div className="w-2 h-2 bg-blue-600 rounded-full mt-2 flex-shrink-0"></div>
                   <p className="text-gray-700">
-                    <strong>Future-proof investment:</strong> While others scramble to catch up, you'll already be leading.
+                    <strong>Future-proof investment:</strong> While others scramble to catch up, you&apos;ll already be leading.
                   </p>
                 </div>
               </div>
